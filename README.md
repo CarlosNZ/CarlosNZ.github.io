@@ -1,2 +1,1 @@
-# carlosnz.github.io
-Portfolio of projects
+# CarlosNZ.github.io
